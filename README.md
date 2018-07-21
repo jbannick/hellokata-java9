@@ -2,9 +2,9 @@ These Kata are specific to coding features introduced with Java 9.
 
 Specifically, they address:
 
-Modularization
-Multi-Version JARs
-Custom Runtime Images
+- Modularization
+- Multi-Version JARs
+- Custom Runtime Images
 
 They are all compiled on my Mac under Java 9,
 except for the Multi-Version parts that are compiled under other Java releases.
