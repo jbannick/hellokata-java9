@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 java --module-path . \
---module appmod/kata.app.HelloModUsingLib3
+--module appmod/kata.app.HelloModUsingLibs3
