@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: kata.app9.HelloApp9
+Class-Path: lib.jar
