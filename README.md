@@ -3,7 +3,7 @@ These Kata are specific to coding features introduced with Java 9.
 Specifically, they address:
 
 - Modularization
-- Multi-Version JARs
+- Multi-Release JARs
 - Custom Runtime Images
 
 They are all compiled on my Mac under Java 9,
